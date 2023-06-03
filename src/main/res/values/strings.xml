@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BillCalculator</string>
+    <string name="number_of_units_kwh">Number of Units (kWh):</string>
+    <string name="number_of_electricity_units_kwh">Number of Electricity Units (kWh)</string>
+    <string name="rebate_percentage_0_5">Rebate Percentage (0–5%):</string>
+    <string name="rebate_percentage">Rebate Percentage (%)</string>
+    <string name="calculate">Calculate</string>
+    <string name="about">About</string>
+
+
+    <string name="about_text">This is the About page.</string>
+        <!-- Other strings in your strings.xml file -->
+
+
+
+
+
+    <string name="about_title">About</string>
+    <string name="about_content">AUTHOR_DETAILS</string>
+    <string name="about_url">YOUR_GITHUB_URL</string>
+
+
+
+</resources>
